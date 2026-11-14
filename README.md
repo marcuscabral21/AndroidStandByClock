@@ -77,4 +77,4 @@ Sensors come from **LibreHardwareMonitor** running on your PC. Spotify is contro
 
 ## 6. app/src/main/java/com/example/pcmonitor/Config.kt
 
-|Change the const val AGENT_TOKEN
+Change the const val AGENT_TOKEN
