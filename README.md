@@ -74,3 +74,7 @@ Sensors come from **LibreHardwareMonitor** running on your PC. Spotify is contro
 | Spotify buttons error | No Premium or no active Spotify device |
 | Spotify login doesn't return | Redirect URI not registered exactly as `pcmonitor://callback` |
 | "INVALID_CLIENT" on login | `SPOTIFY_CLIENT_ID` empty or incorrect |
+
+## 6. app/src/main/java/com/example/pcmonitor/Config.kt
+
+|Change the const val AGENT_TOKEN
