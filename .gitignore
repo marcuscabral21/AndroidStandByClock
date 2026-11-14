@@ -1,0 +1,39 @@
+# Built application files
+*.apk
+*.ap_
+*.aab
+
+# Files for the Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+out/
+.gradle/
+build/
+
+# Local configuration file (sdk.dir, etc.)
+local.properties
+
+# Eclipse project files
+.project
+.classpath
+
+# JetBrains / Android Studio specific
+.idea/
+.DS_Store
+*.iml
+.navigation/
+
+# Keystore files
+*.jks
+*.pfx
+*.keystore
+
+# Logs & temporary files
+*.log
+pc_agent/agent.log

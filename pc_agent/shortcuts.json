@@ -1,0 +1,10 @@
+{
+  "shortcuts": [
+    { "id": "lock",       "label": "Bloquear PC",    "icon": "🔒", "type": "builtin", "action": "lock" },
+    { "id": "sleep",      "label": "Suspender",      "icon": "🌙", "type": "builtin", "action": "sleep" },
+    { "id": "screenshot", "label": "Captura",        "icon": "📸", "type": "builtin", "action": "screenshot" },
+    { "id": "taskmgr",    "label": "Gestor tarefas", "icon": "📊", "type": "hotkey",  "keys": ["ctrl", "shift", "esc"] },
+    { "id": "calc",       "label": "Calculadora",    "icon": "🧮", "type": "run",     "command": ["calc.exe"] },
+    { "id": "youtube",    "label": "YouTube",        "icon": "▶️", "type": "url",     "url": "https://www.youtube.com" }
+  ]
+}
