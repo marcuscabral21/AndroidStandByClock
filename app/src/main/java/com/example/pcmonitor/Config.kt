@@ -5,7 +5,7 @@ package com.example.pcmonitor
  */
 object Config {
     /** Client ID da tua app em https://developer.spotify.com/dashboard */
-    const val SPOTIFY_CLIENT_ID = "a9478f39ee6846e79062024aa97e8ad0"
+    const val SPOTIFY_CLIENT_ID = "YOUR_AGENT_TOKEN_HERE"
 
     /** Tem de estar registado EXATAMENTE assim nas definições da app Spotify. */
     const val SPOTIFY_REDIRECT_URI = "pcmonitor://callback"
